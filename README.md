@@ -10,7 +10,7 @@ Development of this website is complete. It was built using HTML, CSS, JavaScrip
 
 ## Visuals
 
-Here is a link to the finished site: 
+Here is a link to the finished site: https://sethschnrt.github.io/work-day-scheduler/
 
 ## Support
 
@@ -26,3 +26,4 @@ All current changes have been processed by Seth Schoenert. Here is a link to the
 MIT License
 
 ## Website Screenshot
+![Screenshot 2023-04-20 at 5 12 07 PM](https://user-images.githubusercontent.com/127680441/233498352-bf13db11-f400-442b-8cf6-edfc1903f14f.png)
